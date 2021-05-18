@@ -1,0 +1,7 @@
+## Interface: 90002
+## Title: ccRoster
+## Notes: CTRL-C Roster - literally for copying and pasting your roster
+## Author: bery-barthilas
+## X-Category: Data Export
+## X-License: GNU General Public License v3.0
+core.lua
